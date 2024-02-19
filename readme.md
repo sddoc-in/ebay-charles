@@ -12,8 +12,8 @@ So lets break this down:
 List of Brands (Sellers)
 Must have Many Hundreds Ratings
 Average item price over $100
-Sellers of Mountain Biking items
-With Brands like Brands: Rockshox Shimano, raceface
+Sellers ofuntain Biking items
+With Brands like Brands:  MoRockshox Shimano, raceface
 
 
 
